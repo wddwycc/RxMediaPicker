@@ -6,7 +6,7 @@
 Cocoapods
 
 ```ruby
-pod '' :git => 'https://github.com/wddwycc/RxMediaPicker.git', :tag => '0.0.3'
+pod 'RxMediaPicker' :git => 'https://github.com/wddwycc/RxMediaPicker.git', :tag => '0.0.4'
 ```
 
 
