@@ -1,5 +1,18 @@
 # RxMediaPicker
 
+
+**This is a forked project in order to support RxSwift ~> 3.0**
+
+Cocoapods
+
+```ruby
+pod '' :git => 'https://bitbucket.org/xtjp/xtalert.git', :tag => '0.02'
+```
+
+
+---
+
+
 RxMediaPicker is a RxSwift wrapper built around UIImagePickerController consisting in a simple interface for common actions like picking photos or videos stored on the device, recording a video or taking a photo.
 
 If you ever used UIImagePickerController you know how it can become quite verbose and introduce some unnecessary complexity, as you use the same class to do everything, from picking photos or videos from the library, recording videos, etc. At the same time, you have all these different properties and methods which can be used when you are dealing with photos, others for when you're dealing with videos, and others in all cases.
